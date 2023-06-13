@@ -11,6 +11,7 @@ const HomePage = () => {
             <Row xs={1} md={1} className="g-1 m-1">
             <CreateCuadro/>
             </Row>
+            
         </Container>
         </>
      );
