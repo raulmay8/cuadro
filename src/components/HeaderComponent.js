@@ -1,4 +1,5 @@
 import Nav from 'react-bootstrap/Nav'
+import React, {Component} from 'react';
 
 const HeaderComponent = () => {
     return ( 
